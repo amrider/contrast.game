@@ -8,7 +8,7 @@ function setup() {
   createElement('h1',"Contrast Game")
   //input = createInput('grayscale value here')
   slider = createSlider(77,177,165)
-  slider.position(200,20)
+  slider.position(10,380)
   createP('Use the slider to make the grid disappear, then notice the gradient scale difference.')
   createP('Richard Breazeale, M.D.')
   createP('Southeastern Retina Associates')
